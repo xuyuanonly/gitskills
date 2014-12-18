@@ -1,3 +1,5 @@
 This is a txt.
 This is added from the branch.
 added by master 
+added by feature1. 
+
